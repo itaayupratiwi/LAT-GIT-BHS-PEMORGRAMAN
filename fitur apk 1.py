@@ -1,0 +1,1 @@
+print('halo ubi adalah fitur aplikasi 1')
